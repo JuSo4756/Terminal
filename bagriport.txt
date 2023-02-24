@@ -1,0 +1,10 @@
+id:
+title:
+steps:
+expected result:
+actual result:
+attachments:
+severity:
+priority:
+envirinment:
+qa engineer:
